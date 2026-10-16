@@ -1,0 +1,11 @@
+{
+  "name": "sneaker-price-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot that finds sneakers and shows photos + the price of every size, the cheapest pair in your size, and price-drop alerts. Powered by the KicksCrew Sneakers Data API.",
+  "main": "src/bot.js",
+  "scripts": { "start": "node src/bot.js" },
+  "keywords": ["telegram-bot", "sneakers", "sneaker-bot", "price-tracker", "jordan", "nike", "kickscrew", "rapidapi"],
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "dependencies": { "dotenv": "^16.4.5", "telegraf": "^4.16.3" }
+}
