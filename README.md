@@ -11,7 +11,9 @@
 
 A ready-to-deploy **Telegram sneaker bot** (Node.js + Telegraf). Type a sneaker name and get **photos, SKU, the “from” price and in-stock sizes**, tap **📏 Sizes & prices** for the price of every size, find the **cheapest pair in your size**, and set **price alerts**.
 
-<p align="center"><img src="screenshots/telegram-bot.png" alt="Sneaker price Telegram bot" width="420"></p>
+| Search results with photos | Price of every size |
+|---|---|
+| ![Telegram sneaker bot search](screenshots/telegram-search.png) | ![Telegram sneaker bot sizes](screenshots/telegram-sizes.png) |
 
 *Screenshot rendered from real KicksCrew data ([docs/telegram-preview.html](docs/telegram-preview.html)).*
 
